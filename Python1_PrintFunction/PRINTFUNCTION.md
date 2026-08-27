@@ -202,7 +202,7 @@ Apple | Orange | Mango.
 | `end`           | `print("A", end="!")`      | Changes what comes at the end |
 | New line        | `print("A\nB")`            | Moves output to a new line    |
 
-### Important Points
+### Important Points :
 
 * `print()` is used to display information on the screen.
 * Strings require quotation marks.
